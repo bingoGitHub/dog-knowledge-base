@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a886d66fd364ecab",
+        "id": "8549eeb2c89b7c92",
         "type": "tabs",
         "children": [
           {
-            "id": "f90f009a8b580740",
+            "id": "7067ccdfe71766ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-diary/2026-03-17.md",
+                "file": "05-job/00-isg/ip白名单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-17"
+              "title": "ip白名单"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -194,45 +196,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f90f009a8b580740",
+  "active": "7067ccdfe71766ac",
   "lastOpenFiles": [
-    "01-diary/2026-03-06.md",
-    "01-diary/2026-03-17.md",
-    "00-self/00-study-rules.md",
-    "05-job/00-isg/paasid-limit.md",
+    "05-job/00-isg/响应体大小不一.md",
+    "05-job/00-isg/ip白名单.md",
+    "06-tech/node request connect事件区别.md",
+    "05-job/00-isg/wrk.md",
+    "04-deploy/ws.md",
+    "05-job/00-isg/yssmplogin.md",
+    "05-job/00-isg/yssapplogin.md",
+    "05-job/00-isg/maxRequestSize.md",
+    "05-job/00-isg/模型接口类型.md",
+    "05-job/00-isg/模型计费模式.md",
+    "05-job/00-isg/gateway-statuscode.md",
+    "未命名.canvas",
+    "recovered/ca49547a48f8e9c90e1a19df93dd594215d3d58e.txt",
+    "recovered/b0af10d90cafeaae814919affc912eb48b79968b.txt",
+    "recovered/853822bf1ee165fb7239c1c00e03f74da8738b87.txt",
+    "recovered/74dd706290c005e0996c8b5b3aaa0ae616f9aa68.txt",
+    "recovered/6953c51499df450948c71759033ef370c5ce5125.txt",
+    "recovered/61c39a7ba69d293b960c0c8525d90d14b9c3a231.txt",
+    "recovered/5d6b440876c8610878fd077810e48e1eaea1e71e.txt",
+    "recovered/55bc1455c25762c7360ff1c1c2173ee7a0f31fe9.txt",
+    "recovered/43391b2defcb69ea46e578e650c6dc11c5a60bd8.txt",
+    "recovered/36e7edf1f0e461d7de2b4f0716f4bb33267b9c09.txt",
+    "05-job/00-isg/targetSelect.md",
+    "05-job/00-isg/gzip.md",
+    "05-job/00-isg/note.md",
+    "06-tech/正向代理 vs 反向代理.md",
+    "05-job/00-isg/whiteipbalckip.md",
+    "05-job/02-api-model/大模型API（Embeddings、Rerank、Completions）.md",
+    "05-job/00-isg/websocket.md",
     "05-job/00-isg/healthcheck.md",
-    "05-job/00-isg/circuit-breaker.md",
+    "05-job/00-isg/img-body less.md",
+    "01-diary/2026-06-08.md",
     "05-job/00-isg/ciphters.md",
-    "05-job/00-isg/rule",
-    "05-job/00-isg/rule.md",
-    "05-job/00-isg/code",
-    "04-deploy/openspec-20260306.md",
-    "05-job/00-isg",
-    "05-job",
-    "01-diary/2026-03-04.md",
-    "01-diary/2026-03-05.md",
-    "01-diary/2026-02-26.md",
-    "01-diary/2026-03-01.md",
-    "01-diary/2026-03-03.md",
-    "01-diary/2026-03-02.md",
-    "01-diary/2026-02-28.md",
-    "01-diary/2026-02-27.md",
-    "04-deploy/wsl2-20260301.md",
-    "04-deploy/opencode-20260301.md",
-    "04-deploy/openclaw-20260226.md",
-    "04-deploy/nvm-20260301.md",
-    "04-deploy",
-    "03-lang/python/00-study-router.md",
-    "03-lang/python",
-    "03-lang",
-    "01-diary",
-    "00-self",
-    "diary/2026-03-01.md",
-    "lang/python/00-study-router.md",
-    "package-lock.json",
+    "README.md",
+    "05-job/00-isg/upload-limit.md",
+    "05-job/01-yss-yst/微信小程序认证.md",
+    "05-job/02-api-model/模型API计费.md",
     "Untitled.canvas",
-    "deploy/opencode-20260301.md",
-    "deploy/nvm-20260301.md",
     "日记模板.canvas"
   ]
 }

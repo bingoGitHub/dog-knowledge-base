@@ -1,0 +1,3 @@
+rule没设置maxRequestSize则用全局的maxRequestSize
+1、只有设置了requestBodyFilter等过滤器才会校验请求体大小（默认值8388608（byte）），默认不校验
+2、修改了全局maxRequestSize后需要再单独更新具体规则后那条规则才会生效，原因是rule.maxRequestSize只会在rule update的时候才赋值
